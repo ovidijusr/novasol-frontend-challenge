@@ -45,6 +45,8 @@ Property details have following fields displayed:
     </ul>
   </li>
   <li>Price per night</li>
+
+
 </ul>
 
 ## Task 2 (mid level)
