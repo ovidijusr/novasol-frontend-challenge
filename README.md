@@ -28,16 +28,24 @@ At Novasol, we rent out a lot of summer houses. We would like to see a nice look
 As a property manager at Novasol I want to be able to view properties and details on a web page. Create a nice looking list of properties that display this data.
 
 Property details have following fields displayed:
-Property picture
-Property size
-Guest count that can be accomodated
-Address
-Line1 (Required)
-Line2 (Optional)
-Postcode (Required)
-City (Required)
-Country (Required)
-Price per night
+<ul>
+  <li>Property picture</li>
+  <li>Property size</li>
+  <li>Guest count that can be accomodated</li>
+  <li>
+    Address
+    <ul>
+      <li>Line1 (Required)</li>
+      <li>Line2 (Optional)</li>
+      <li>Postcode (Required)</li>
+      <li>City (Required)</li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+  <li>Price per night</li>
+</ul>
 
 ## Task 2 (mid level)
 To make it easier to see where exactly those properties are located, we want you to display them on a map on a separate page. The page should display the map only, and basic navigation to go back to the main property list page.
