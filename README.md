@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Background
+This is a coding challenge for a frontend developer position at Novasol. The task is for us to see your coding skills and logical problem solving. If you pass the test then you will be invited to a second interview which will be based on your solution and will have a more technical focus.
 
-## Available Scripts
+## Starting the challenge
 
-In the project directory, you can run:
+In the project directory, run these commands:
 
+1. Install required packages
+### `npm install`
+
+2. Start local development server
 ### `npm start`
 
-Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Requirements:
+This coding challenge is based on a React application. You will have to use SCSS to style the UI (configuration has already been set up in webpack). Showcase your frontend skills to display this information in the best possible way.
+There is no need for Redux or other state management libraries in this simple app, so go for built in state management options.
 
-### `npm run build`
+Please do use a version-control system (preferably git -- you can just zip the whole folder including the .git folder)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Challenge description:
+At Novasol, we rent out a lot of summer houses. We would like to see a nice looking list of summer houses on a webpage based on mocked data provided (mockData.json). Showcase your frontend skills to display the information in the best possible way.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Task 1 (basic)
+As a property manager at Novasol I want to be able to view properties and details on a web page. Create a nice looking list of properties that display this data.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Property details have following fields displayed:
+Property picture
+Property size
+Guest count that can be accomodated
+Address
+Line1 (Required)
+Line2 (Optional)
+Postcode (Required)
+City (Required)
+Country (Required)
+Price per night
 
-### `npm run eject`
+## Task 2 (mid level)
+To make it easier to see where exactly those properties are located, we want you to display them on a map on a separate page. The page should display the map only, and basic navigation to go back to the main property list page.
+Suggestion: You could use state to show the map without reloading the page. Responsive page is a bonus.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+When a property marker is clicked, we want to see basic info of the property as well. Marker popup should display a box with property a small property image, property type, and address.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Task 3 (advanced)
+Advanced task?
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Complete the tasks according to your skill level. Show us your best and good luck!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

@@ -1,0 +1,26 @@
+{
+  "propertyID": "CIO246",
+  "information": {
+    "name": null,
+    "adultCount": 5,
+    "childrenCount": 0,
+    "allowedPetCount": 0,
+    "type": "APARTMENT"
+  },
+  "address": {
+    "street": "Pavicini",
+    "streetNumber": "84",
+    "zip": "52208",
+    "city": "Pavicini",
+    "countryISOCode": "191",
+    "countryName": "Hrvatska",
+    "coordinates": {
+      "longitude": 14.011558831102548,
+      "latitude": 44.926967627569184,
+      "routeLongitude": 0,
+      "routeLatitude": 0,
+      "permission": "F",
+      "status": "V",
+      "quality": 9
+    }
+}
