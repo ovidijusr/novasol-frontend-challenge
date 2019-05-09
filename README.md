@@ -1,3 +1,11 @@
+## TODO
+<ul>
+  <li>Update task 3 if needed</li>
+  <li>Add mock data</li>
+  <li>Test that solution works</li>
+  <li>Update readme and cleanup project files if needed</li>
+</ul>
+
 ## Background
 This is a coding challenge for a frontend developer position at Novasol. The task is for us to see your coding skills and logical problem solving. If you pass the test then you will be invited to a second interview which will be based on your solution and will have a more technical focus.
 
@@ -19,7 +27,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 This coding challenge is based on a React application. You will have to use SCSS to style the UI (configuration has already been set up in webpack). Showcase your frontend skills to display this information in the best possible way.
 There is no need for Redux or other state management libraries in this simple app, so go for built in state management options.
 
-Please do use a version-control system (preferably git -- you can just zip the whole folder including the .git folder)
+Please do use a version-control system (preferably git -- you can just zip the whole folder including the .git folder).
+
+We expect you to spend 4-8 hours on this task.
 
 ## Challenge description:
 At Novasol, we rent out a lot of summer houses. We would like to see a nice looking list of summer houses on a webpage based on mocked data provided (mockData.json). Showcase your frontend skills to display the information in the best possible way.
@@ -39,9 +49,6 @@ Property details have following fields displayed:
       <li>Line2 (Optional)</li>
       <li>Postcode (Required)</li>
       <li>City (Required)</li>
-      <li></li>
-      <li></li>
-      <li></li>
     </ul>
   </li>
   <li>Price per night</li>
