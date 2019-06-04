@@ -24,7 +24,7 @@ Api will be accessed through [http://localhost:3000/api/properties](http://local
 ```Make sure that you have 3000 and 4000 ports opened.```
 
 ## Requirements:
-This coding challenge is based on a React application. You will have to use SCSS to style the UI (configuration has already been set up in webpack). Showcase your frontend skills to display this information in the best possible way. Do not use any UI framework like material or semantic. You can use lighweight scss frameworks (like sierra - http://sierra-library.github.io/) only.
+This coding challenge is based on a React application. You will have to use SCSS to style the UI (configuration has already been set up in webpack). Showcase your frontend skills to display this information in the best possible way. Do not use any UI framework like material or semantic. You can use lightweight scss frameworks (like sierra - http://sierra-library.github.io/) only.
 There is no need for Redux or other state management libraries in this simple app, so go for built in state management options.
 
 Please do use a version-control system (preferably git -- you can just zip the whole folder including the .git folder).
