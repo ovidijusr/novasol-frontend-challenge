@@ -37,11 +37,11 @@ At Novasol, we rent out a lot of summer houses. We would like to see a nice look
 ## Task
 As a property manager at Novasol I want to be able to view properties and details on a web page. Create a nice looking list of properties that display this data.
 
-Property details have following fields displayed:
+Property details have the following fields displayed:
 <ul>
   <li>Property picture</li>
   <li>Number of bedrooms</li>
-  <li>number of bathrooms</li>
+  <li>Number of bathrooms</li>
   <li>Guest count that can be accomodated</li>
   <li>
     Address
@@ -53,15 +53,13 @@ Property details have following fields displayed:
     </ul>
   </li>
   <li>Price per night</li>
-
-
 </ul>
 
 ## Task 2
 To make it easier to see where exactly those properties are located, we want you to display them on a map (use google maps api for geolocation - getting coordinates from adress) on a separate page. The page should display the map only, and basic navigation to go back to the main property list page.
 Suggestion: You could use state to show the map without reloading the page. Responsive page is a bonus.
 
-When a property marker is clicked, we want to see basic info of the property as well. Marker popup should display a box with property a small property image (use google for finding images of houses), property type, and address.
+When a property marker is clicked, we want to see basic info of the property as well. Marker popup should display a box with a small property image (use google for finding images of houses), property type, and address.
 
 ## Optional
 A nice looking UI and good code structure with tests will be a plus.
