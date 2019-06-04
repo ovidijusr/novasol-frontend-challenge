@@ -9,12 +9,17 @@ In the project directory, run these commands:
 ### `npm ci`
 
 2. Start local development server
-### `npm start`
+### `npm run start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+3. Start mocked api server
 
+### `npm run start:api`
 
+Api will be accessed through [http://localhost:3000/api/properties](http://localhost:3000/api/properties)
+
+```Make sure that you have 3000 and 4000 ports opened.```
 
 ## Requirements:
 This coding challenge is based on a React application. You will have to use SCSS to style the UI (configuration has already been set up in webpack). Showcase your frontend skills to display this information in the best possible way. Do not use any UI framework like material or semantic. You can use lighweight scss frameworks (like sierra - http://sierra-library.github.io/) only.
@@ -60,5 +65,3 @@ When a property marker is clicked, we want to see basic info of the property as 
 A nice looking UI and good code structure with tests will be a plus.
 
 Complete the tasks according to your skill level. It's better to do less, but with a good code structure than complete everything with messy code. Show us your best and good luck!
-
-
