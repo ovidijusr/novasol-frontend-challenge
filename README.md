@@ -19,6 +19,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Api will be accessed through [http://localhost:3000/api/properties](http://localhost:3000/api/properties)
 
+`json-server` was used for generating api so use [https://github.com/typicode/json-server](https://github.com/typicode/json-server) for more details.
+
 ```Make sure that you have 3000 and 4000 ports opened.```
 
 ## Requirements:
