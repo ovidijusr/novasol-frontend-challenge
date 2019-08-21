@@ -61,9 +61,11 @@ Suggestion: You could use state to show the map without reloading the page. Resp
 
 When a property marker is clicked, we want to see basic info of the property as well. Marker popup should display a box with a small property image (use google for finding images of houses), property type, and address.
 
-Sometimes API can go down or load slowly or would come with wrong data. We would like to see if you can handle these situations from a front-end side so you could give a user the best expierence in this situation. If it takes too much time, make a MVP concept in code and tell us in the interview how would you approach that if you had more time.
+Sometimes API can go down or load slowly or would come with wrong data. We would like to see if you can handle these situations from a front-end side, so you could give a user the best expierence in this situation. If it takes too much time, write a MVP concept in code and tell us in the interview how would you approach that if you had more time.
 
+## Task 3
 
+Novasol has a thousands of rental houses, so showing all of them would overwhelm the user. We want you to make a price filter which would filter the results according to the selected price range in the filter.
 
 ## Optional
 A nice looking UI and good code structure with tests will be a plus.
