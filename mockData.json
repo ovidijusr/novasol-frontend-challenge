@@ -1,55 +1,139 @@
 {
-  "properties": [
+  "Properties": [
     {
-      "owner": "carlos",
-      "address": {
-        "line1": "Flat 5",
-        "line4": "7 Westbourne Terrace",
-        "postCode": "W2 3UL",
-        "city": "London",
-        "country": "U.K."
-      },
-      "airbnbId": 3512500,
+      "id": 1,
+      "city": "Canchayllo",
+      "country": "Peru",
+      "numberOfBedrooms": 5,
+      "numberOfBathrooms": 3,
+      "guests": 5,
+      "pricePerNight": 151.9
+    },
+    {
+      "id": 2,
+      "city": "Wengaingo",
+      "country": "Indonesia",
+      "numberOfBedrooms": 4,
+      "numberOfBathrooms": 3,
+      "guests": 5,
+      "pricePerNight": 467.8
+    },
+    {
+      "id": 3,
+      "city": "Ejidal",
+      "country": "Mexico",
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 1,
+      "guests": 5,
+      "pricePerNight": 489.0
+    },
+    {
+      "id": 4,
+      "city": "Bizerte",
+      "country": "Tunisia",
+      "numberOfBedrooms": 1,
+      "numberOfBathrooms": 2,
+      "guests": 5,
+      "pricePerNight": 453.5
+    },
+    {
+      "id": 5,
+      "city": "Kitaibaraki",
+      "country": "Japan",
+      "numberOfBedrooms": 4,
+      "numberOfBathrooms": 2,
+      "guests": 5,
+      "pricePerNight": 327.7
+    },
+    {
+      "id": 6,
+      "city": "San Jose",
+      "country": "Philippines",
       "numberOfBedrooms": 1,
       "numberOfBathrooms": 1,
-      "incomeGenerated": 2000.34,
-      "guest": 1,
-      "pricePerNight": 150.00
+      "guests": 5,
+      "pricePerNight": 182.5
     },
     {
-      "owner": "ankur",
-      "address": {
-        "line1": "4",
-        "line2": "Tower Mansions",
-        "line3": "Off Station road",
-        "line4": "86-87 Grange Road",
-        "postCode": "SE1 3BW",
-        "city": "London",
-        "country": "U.K."
-      },
-      "airbnbId": 1334159,
-      "numberOfBedrooms": 3,
+      "id": 7,
+      "city": "Svalyava",
+      "country": "Ukraine",
+      "numberOfBedrooms": 4,
+      "numberOfBathrooms": 3,
+      "guests": 5,
+      "pricePerNight": 307.0
+    },
+    {
+      "id": 8,
+      "city": "Limbo",
+      "country": "Philippines",
+      "numberOfBedrooms": 1,
       "numberOfBathrooms": 1,
-      "incomeGenerated": 10000,
-      "guest": 2,
-      "pricePerNight": 140.00
+      "guests": 5,
+      "pricePerNight": 369.6
     },
     {
-      "owner": "elaine",
-      "address": {
-        "line1": "4",
-        "line2": "332b",
-        "line4": "Goswell Road",
-        "postCode": "EC1V 7LQ",
-        "city": "London",
-        "country": "U.K."
-      },
-      "airbnbId": 12220057,
+      "id": 9,
+      "city": "Argelia",
+      "country": "Colombia",
       "numberOfBedrooms": 2,
       "numberOfBathrooms": 2,
-      "incomeGenerated": 1200,
-      "guest": 5,
-      "pricePerNight": 100.00
+      "guests": 5,
+      "pricePerNight": 271.2
+    },
+    {
+      "id": 10,
+      "city": "Triandría",
+      "country": "Greece",
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 3,
+      "guests": 5,
+      "pricePerNight": 124.2
+    },
+    {
+      "id": 11,
+      "city": "Peñal",
+      "country": "Trinidad and Tobago",
+      "numberOfBedrooms": 1,
+      "numberOfBathrooms": 1,
+      "guests": 5,
+      "pricePerNight": 223.2
+    },
+    {
+      "id": 12,
+      "city": "Macaíba",
+      "country": "Brazil",
+      "numberOfBedrooms": 1,
+      "numberOfBathrooms": 1,
+      "guests": 5,
+      "pricePerNight": 291.2
+    },
+    {
+      "id": 13,
+      "city": "Limen",
+      "country": "China",
+      "numberOfBedrooms": 5,
+      "numberOfBathrooms": 2,
+      "guests": 5,
+      "pricePerNight": 207.7
+    },
+    {
+      "id": 14,
+      "city": "Żabieniec",
+      "country": "Poland",
+      "numberOfBedrooms": 3,
+      "numberOfBathrooms": 1,
+      "guests": 5,
+      "pricePerNight": 216.6
+    },
+    {
+      "id": 15,
+      "city": "Armenia",
+      "country": "Philippines",
+      "numberOfBedrooms": 1,
+      "numberOfBathrooms": 3,
+      "guests": 5,
+      "pricePerNight": 268.3
     }
   ]
 }
