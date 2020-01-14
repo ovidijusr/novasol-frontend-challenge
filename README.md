@@ -42,15 +42,7 @@ Property details have the following fields displayed:
   <li>Number of bedrooms</li>
   <li>Number of bathrooms</li>
   <li>Guest count that can be accomodated</li>
-  <li>
-    Address
-    <ul>
-      <li>Line1 (Required)</li>
-      <li>Line2 (Optional)</li>
-      <li>Postcode (Required)</li>
-      <li>City (Required)</li>
-    </ul>
-  </li>
+  <li>City (Required)</li>
   <li>Price per night</li>
 </ul>
 
